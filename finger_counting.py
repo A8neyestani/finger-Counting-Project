@@ -1,3 +1,9 @@
+'''
+Author: Arman Neyestani 
+https://github.com/A8neyestani
+A8neyestani@protonmail.com
+'''
+
 # Import required libraries
 import cv2
 import os
